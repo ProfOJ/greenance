@@ -109,8 +109,8 @@ export default function SignUp() {
 		// }
 
 		if (username && email) {
-			const authMsg = `Welcome to Manger!
-      \nClick to sign in and accept the Manger Terms of Service.
+			const authMsg = `Welcome to Greenance!
+      \nClick to sign in and accept the Greenance Terms of Service.
       \nThis request will not cost any gas fees.
       \nYour authentication status will reset after 24 hours.
       \nTimestamp: ${Date.now()}
@@ -139,7 +139,7 @@ export default function SignUp() {
 						id: v4(),
 						type: "SUCCESS",
 						title: "Account Created Successfully",
-						message: `Welcome to Manger ${username}`,
+						message: `Welcome to Greenance ${username}`,
 					},
 				})
 
@@ -189,13 +189,13 @@ export default function SignUp() {
 	return (
 		<>
 			<Head>
-				<title>{"Manger | Sign Up"}</title>
+				<title>{"Greenance | Sign Up"}</title>
 				<meta
 					name="description"
-					content="Manger Project - Climate financing on the blockchain"
+					content="Greenance Project - Climate financing on the blockchain"
 				/>
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<link rel="icon" href="/assets/manger_favicon.svg" />
+				<link rel="icon" href="/assets/greenance_favicon.png" />
 			</Head>
 			<section className="su-page">
 				<div className="su-bg">

@@ -61,7 +61,7 @@ export default function UserBackedTab() {
 							className={s["db-stats-info-icon"]}
 						/>
 						{`
-          Did you know: Manger runs a flexible crowdfunding system i.e. 
+          Did you know: Greenance runs a flexible crowdfunding system i.e. 
           all earnings at the end of a campaign, belong to the campaign creator, 
           even if the campaign goal isn't reached. 
           `}

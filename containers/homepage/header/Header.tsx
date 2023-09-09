@@ -36,7 +36,7 @@ export default function Header() {
 					<h1>{"Climate financing on the blockchain."}</h1>
 					<p>
 						{
-							"Greenance is a tokenaized climate financing platform connecting donors with impactful carbon mitigation projects in web3 space."
+							"Greenance is a tokenized climate financing platform connecting donors with impactful carbon mitigation projects in web3 space."
 						}
 					</p>
 					<button

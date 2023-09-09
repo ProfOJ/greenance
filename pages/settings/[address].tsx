@@ -159,10 +159,10 @@ export default function Account() {
   return (
     <>
       <Head>
-        <title>{"Manger | Settings"}</title>
-        <meta name="description" content="Manger Project - Account Settings" />
+        <title>{"Greenance | Settings"}</title>
+        <meta name="description" content="Greenance Project - Account Settings" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/assets/manger_favicon.svg" />
+        <link rel="icon" href="/assets/greenance_favicon.png" />
       </Head>
       {
         !address 

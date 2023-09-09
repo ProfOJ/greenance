@@ -8,10 +8,10 @@ export default function Campaigns(){
   return (
     <>
       <Head>
-        <title>{"Manger | Campaigns"}</title>
-        <meta name="description" content="Manger Project - Climate financing on the blockchain" />
+        <title>{"Greenance | Campaigns"}</title>
+        <meta name="description" content="Greenance Project - Climate financing on the blockchain" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/assets/manger_favicon.svg" />
+        <link rel="icon" href="/assets/greenance_favicon.png" />
       </Head>
       <CampaignsPage cat={"All Categories"} offVal={0}/>
     </>

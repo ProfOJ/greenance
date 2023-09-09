@@ -273,7 +273,7 @@ export default function ContentTab() {
 							<p className="ct-card-subtitle">
 								{"The FAQ section should provide the most common details that backers are looking for when " +
 									"evaluating your campaign. We will also provide common answers to " +
-									"questions about crowdfunding and how Manger works"}
+									"questions about crowdfunding and how Greenance works"}
 							</p>
 							<div className="ct-faqboxs-container">
 								{faqs.length > 0 &&

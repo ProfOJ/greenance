@@ -1,4 +1,10 @@
 const categories:Array<string> = [
+  "Renewable Energy",
+  "Blue economy",
+  "Circular economy",
+  "Green Infrastructure",
+  "Waste Management and Recycling",
+
   "Metaverse",
   "P2E",
   "De-Fi",

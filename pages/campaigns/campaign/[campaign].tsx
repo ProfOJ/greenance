@@ -16,10 +16,10 @@ export default function Campaign() {
   return (
     <>
       <Head>
-        <title>{`Manger | ${title}`}</title>
-        <meta name="description" content="Manger Project - Climate financing on the blockchain" />
+        <title>{`Greenance | ${title}`}</title>
+        <meta name="description" content="Greenance Project - Climate financing on the blockchain" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/assets/manger_favicon.svg" />
+        <link rel="icon" href="/assets/greenance_favicon.png" />
       </Head>
       {
         !campaign 

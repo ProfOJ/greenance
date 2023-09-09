@@ -46,13 +46,13 @@ export default function Profile() {
 	return (
 		<>
 			<Head>
-				<title>{"Manger | Profile"}</title>
+				<title>{"Greenance | Profile"}</title>
 				<meta
 					name="description"
-					content="Manger Project - Climate financing on the blockchain"
+					content="Greenance Project - Climate financing on the blockchain"
 				/>
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<link rel="icon" href="/assets/manger_favicon.svg" />
+				<link rel="icon" href="/assets/greenance_favicon.png" />
 			</Head>
 			{!profile ? (
 				<ReactLoading type="bubbles" color="#827B93" />

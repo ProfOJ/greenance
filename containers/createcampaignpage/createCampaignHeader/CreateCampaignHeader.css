@@ -1,6 +1,11 @@
 /* cch */
 .cch-section.sc-padding.fl-tl.fl-c{
-  background: var(--color-section-hd);
+  background: linear-gradient(
+		180deg,
+		#0cde28 1.12%,
+		#10760a 41.15%,
+		#045f18 95.83%
+	);
   width: 100%;
   gap: 3.125em;
   padding-top: 7.04vw;
