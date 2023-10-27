@@ -12,15 +12,15 @@ import Link from "next/link"
 function Menu() {
 	return (
 		<>
-			<Link href="/campaigns" className="ft-menu-link">
+			{/* <Link href="/campaigns" className="ft-menu-link">
 				{"Campaigns"}
+			</Link> */}
+			<Link href="https://www.absa.com.gh/business/" className="ft-menu-link">
+				{"About Absa"}
 			</Link>
-			<Link href="./" className="ft-menu-link">
-				{"About us"}
-			</Link>
-			<Link href="/#blog" className="ft-menu-link">
+			{/* <Link href="/#blog" className="ft-menu-link">
 				{"Blog"}
-			</Link>
+			</Link> */}
 			<Link href="/#how-it-works" className="ft-menu-link">
 				{"Help"}
 			</Link>
@@ -58,7 +58,7 @@ export default function Footer() {
 				<div className="ft-divider"></div>
 
 				<div className="ft-copyright fl-cl">
-					<p>{"©2023 Greenance.All Rights Reserved."}</p>
+					<p>{"©2023 Absup.All Rights Reserved."}</p>
 				</div>
 			</div>
 
@@ -117,7 +117,7 @@ export default function Footer() {
 							<FontAwesomeIcon icon={faFacebook} className="ft-social-icon" />
 						</div>
 					</div>
-					<p>{"© 2023 Greenance.All Rights Reserved."}</p>
+					<p>{"© 2023 Absup.All Rights Reserved."}</p>
 				</div>
 			</div>
 		</footer>

@@ -173,7 +173,7 @@ export default function SingleUserCreatedActiveCmp() {
 								}
 							>
 								{campaignDetails.state == 0
-									? "Climate financing"
+									? "Supply chain financing"
 									: campaignDetails.state == 1
 									? "Expired"
 									: campaignDetails.state == 2

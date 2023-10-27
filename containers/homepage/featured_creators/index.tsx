@@ -9,8 +9,8 @@ export default function FeaturedCreators() {
 	const { creators } = useFeaturedCreators()
 	return (
 		<section className={s.section}>
-			<div className={s.header}>
-				<h3>FEATURED CREATORS</h3>
+			{/* <div className={s.header}>
+				<h3>FEATURED SMEs</h3>
 				<p>Meet our pioneers!!</p>
 			</div>
 
@@ -35,7 +35,7 @@ export default function FeaturedCreators() {
 							</Link>
 						)
 					})}
-			</div>
+			</div> */}
 		</section>
 	)
 }

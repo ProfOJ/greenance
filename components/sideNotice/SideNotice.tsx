@@ -3,7 +3,7 @@ export default function SideNotice() {
     <div className="sn-container fl-tl fl-c">
       <div className="sn-info">
         <div className="sn-info-title">{"Rewards aren't guaranteed."}</div>
-        <p>{"Your pledge will support an ambitious creative project that has yet to be developed. There’s a risk that, despite a creator’s best efforts, your reward will not be fulfilled, and we urge you to consider this risk prior to pledging. Greenance is not responsible for project claims or reward fulfillment."}</p>
+        <p>{"Your pledge will support an ambitious creative project that has yet to be developed. There’s a risk that, despite a creator’s best efforts, your reward will not be fulfilled, and we urge you to consider this risk prior to pledging. Absup is not responsible for project claims or reward fulfillment."}</p>
       </div>
 
       <div className="sn-faq">

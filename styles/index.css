@@ -5,28 +5,28 @@
 
 	--color-subtext: #827b93;
 	--color-bg: #fff;
-	--color-footer: #045f18;
-	--color-text: #361e77;
-	--color-card-text: #045f18;
+	--color-footer: #af144b;
+	--color-text: #000000;
+	--color-card-text: #910a27;
 	--color-sub-bg: #e0d9e7;
 	--color-htext: #f6f4fb;
 	--color-btn: linear-gradient(
 		98.97deg,
-		#0cde28 1.12%,
-		#10760a 41.15%,
-		#045f18 95.83%
+		#fa551e 1.12%,
+		#fa551e 41.15%,
+		#fa551e 95.83%
 	);
 	--color-header-bg: linear-gradient(
 		180deg,
-		#0cde28 1.12%,
-		#10760a 41.15%,
-		#045f18 95.83%
+		#ce1c44 1.12%,
+		#ce1c44 41.15%,
+		#910a27 95.83%
 	);
 	--color-header-bg: linear-gradient(
 		180deg,
-		#0cde28 1.12%,
-		#10760a 41.15%,
-		#045f18 95.83%
+		#ce1c44 1.12%,
+		#ce1c44 41.15%,
+		#910a27 95.83%
 	);
 
 	scrollbar-color: #c4a2e7 #361e77 !important;

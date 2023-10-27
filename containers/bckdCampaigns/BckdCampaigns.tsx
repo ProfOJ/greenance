@@ -22,7 +22,7 @@ export default function BckdCampaigns() {
             <img src="/e43.png" alt="--" className="db-tbl-rw-img"/>
             <span>{"Rune Fencer Illyia - A Cute Metroidvania"}</span>
           </span>
-          <span className="db-tbl-rw-ele --status">{"Climate financing"}</span>
+          <span className="db-tbl-rw-ele --status">{"Supply chain financing"}</span>
           <span className="db-tbl-rw-ele  --eta">{"15"}</span>
           <span className="db-tbl-rw-ele">
             <FontAwesomeIcon icon={faEthereum} className="db-tbl-act-icon"/>
@@ -40,7 +40,7 @@ export default function BckdCampaigns() {
             <img src="/e43.png" alt="--" className="db-tbl-rw-img"/>
             <span>{"Dark Metroidvania"}</span>
           </span>
-          <span className="db-tbl-rw-ele --status">{"Climate financing"}</span>
+          <span className="db-tbl-rw-ele --status">{"Supply chain financing"}</span>
           <span className="db-tbl-rw-ele --eta">{"53"}</span>
           <span className="db-tbl-rw-ele">
             <FontAwesomeIcon icon={faEthereum} className="db-tbl-act-icon"/>
@@ -58,7 +58,7 @@ export default function BckdCampaigns() {
             <img src="/e43.png" alt="--" className="db-tbl-rw-img"/>
             <span>{"Dark Metroidvania"}</span>
           </span>
-          <span className="db-tbl-rw-ele --status">{"Climate financing"}</span>
+          <span className="db-tbl-rw-ele --status">{"Supply chain financing"}</span>
           <span className="db-tbl-rw-ele  --eta">{"5"}</span>
           <span className="db-tbl-rw-ele">
             <FontAwesomeIcon icon={faEthereum} className="db-tbl-act-icon"/>

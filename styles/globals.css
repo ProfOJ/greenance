@@ -59,7 +59,7 @@ button:disabled {
 	width: 16px;
 }
 ::-webkit-scrollbar-thumb {
-	background: #9071df;
+	background: #fa551e;
 	border-radius: 10px;
 	background-clip: content-box;
 	border: 6px solid transparent;

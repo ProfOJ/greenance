@@ -52,7 +52,7 @@ export default function Sidebar({ myVis }: Props) {
 			>
 				<div className="si-nav fl-cc fl-sb">
 					<div className="si-logo fl-cl">
-						<p>{"Greenance"}</p>
+						<p>{"Absup"}</p>
 					</div>
 					<FontAwesomeIcon
 						icon={faBarsStaggered}

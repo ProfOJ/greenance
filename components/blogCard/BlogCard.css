@@ -143,9 +143,9 @@
   transition: all 0.4s ease;
 }
 .bc-blog-cta:hover{
-  background-color: #9071DF;
+  background-color: #fa551e;
   color: var(--color-htext);
-  border-color: #9071DF;
+  border-color: #fa551e;
 }
 @media (max-width: 1250px){
   .bc-blog-cta{

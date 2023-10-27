@@ -22,7 +22,7 @@ export default function Campaigns() {
           </div>
           : loading ? <ReactLoading type={"bubbles"} color="#827B93"/> 
             : !campaigns || !(campaigns.length > 0) 
-              ? <p className="pg-notice">{"There are currently no campaigns in Greenance"}</p> 
+              ? <p className="pg-notice">{"There are currently no campaigns in Absup"}</p> 
               : <CampaignGrid mapArray={campaigns}/>
       }
       <Link href={"/campaigns"}><button className="cg-see-more fl-cc">{"See more"}</button></Link>

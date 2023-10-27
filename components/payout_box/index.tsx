@@ -46,7 +46,7 @@ export default function PayoutBox() {
 					id: v4(),
 					type: "SUCCESS",
 					title: "Withdrawal Successful",
-					message: "Thanks for choosing Greenance!!",
+					message: "Thanks for choosing Absup!!",
 				},
 			})
 		} catch (error) {
@@ -150,7 +150,7 @@ export default function PayoutBox() {
 							setATC(e.target.checked)
 						}}
 					/>
-					<span>{`I agree to Greenance's Terms of Service`}</span>
+					<span>{`I agree to Absup's Terms of Service`}</span>
 				</div>
 			</div>
 		</section>

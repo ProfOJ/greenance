@@ -5,7 +5,7 @@ export default function Blog() {
     <section className="bl-section sc-padding fl-cl fl-c" id="blog">
       <div className="bl-section-title fl-cl fl-c">
         <h3 className="bl-title">{"BLOG"}</h3>
-        <p className="bl-subtitle">{"Learn more about Greenance"}</p>
+        <p className="bl-subtitle">{"Learn more about Absup"}</p>
       </div>
 
       <div className="bl-cards-container fl-tc">

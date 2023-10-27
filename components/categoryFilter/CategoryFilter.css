@@ -41,9 +41,9 @@
   }
 }
 .cf-category:hover{
-  background-color: #9071DF;
+  background-color: #fa551e;
   color: var(--color-htext);
-  border-color: #9071DF;
+  border-color: #fa551e;
 }
 .cf-category.active{
   background-color: #361E77;

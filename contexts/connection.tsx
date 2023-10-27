@@ -116,8 +116,8 @@ function ConnectionProvider({ children }: { children: ReactNode }) {
 		if (sSig) {
 			setSeSSig(sSig)
 		} else if (signer) {
-			const authMsg = `Welcome to Greenance!
-        \nClick to sign in and accept the Greenance Terms of Service.
+			const authMsg = `Welcome to Absup!
+        \nClick to sign in and accept the Absup Terms of Service.
         \nThis request will not cost any gas fees.
         \nYour authentication status will reset after 24 hours.
         \nTimestamp: ${Date.now()}

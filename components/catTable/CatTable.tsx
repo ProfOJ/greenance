@@ -1,36 +1,9 @@
 const categories:Array<string> = [
-  "Renewable Energy",
-  "Blue economy",
-  "Circular economy",
-  "Green Infrastructure",
-  "Waste Management and Recycling",
-
-  "Metaverse",
-  "P2E",
-  "De-Fi",
-  "Web 3.0",
-  "DAO",
-  "Web3 Startup",
-  "NFT & Collectibles",
-  "Cyber Security",
-  "Blockchain",
-  "Energy & Green Tech",
-
-  "Art",
-  "Comics & Illustration",
-  "Dance & Theater",
-  "Movie",
-  "Music",
-  "Photography",
-  "Podcasts, Blogs & Vlogs",
-  "Games",
-  "Web Series & TV Shows",
-  "Writing & Publishing",
-
-  "Culture",
-  "Environment",
-  "Human Rights",
-  "Other Community Projects"
+  "Producers",
+  "Wwholesalers",
+  "Retailers",
+  "Logistics",
+  "Services",
 ]
 
 export default function CatTable({ showTable, setCurrCat, setShowTable }:{showTable:boolean, setCurrCat:Function, setShowTable:Function}) {

@@ -8,10 +8,10 @@ export default function Campaigns(){
   return (
     <>
       <Head>
-        <title>{"Greenance | Campaigns"}</title>
-        <meta name="description" content="Greenance Project - Climate financing on the blockchain" />
+        <title>{"Absup | Campaigns"}</title>
+        <meta name="description" content="Absup Project - Supply chain financing on the blockchain" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/assets/greenance_favicon.png" />
+        <link rel="icon" href="/assets/Absup_favicon.png" />
       </Head>
       <CampaignsPage cat={"All Categories"} offVal={0}/>
     </>

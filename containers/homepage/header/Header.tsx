@@ -33,10 +33,10 @@ export default function Header() {
 		<header className="hd-header sc-padding fl-bc">
 			<div className="hd-hero fl-cc fl-sb">
 				<div className="hd-hero-title fl-tr fl-c">
-					<h1>{"Climate financing on the blockchain."}</h1>
+					<h1>{"Supply chain financing on the blockchain."}</h1>
 					<p>
 						{
-							"Greenance is a tokenized climate financing platform connecting donors with impactful carbon mitigation projects in web3 space."
+							"Absup is a tokenized Supply chain financing platform facilitating business between SMEs and supply chain stakeholders."
 						}
 					</p>
 					<button

@@ -39,7 +39,7 @@ export default function WalletChoiceModal({ offMe }: { offMe: Function }) {
 				<div className={s.header}>
 					<h2>Connect</h2>
 					<p>
-						{`By connecting a wallet, you agree to Greenance's Terms of Service and
+						{`By connecting a wallet, you agree to Absup's Terms of Service and
 						acknowledge that you have read and understood the disclaimers
 						therein.`}
 					</p>

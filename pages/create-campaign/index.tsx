@@ -24,13 +24,13 @@ export default function CreateCampaign() {
   return (
     <>
       <Head>
-        <title>{"Greenance | Create Campaign"}</title>
+        <title>{"Absup | Create Campaign"}</title>
         <meta
           name="description"
-          content="Greenance Project - Climate financing on the blockchain"
+          content="Absup Project - Supply chain financing on the blockchain"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/assets/greenance_favicon.png" />
+        <link rel="icon" href="/assets/Absup_favicon.png" />
       </Head>
 
       <CampaignCreatorProvider>

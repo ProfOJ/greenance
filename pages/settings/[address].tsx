@@ -159,10 +159,10 @@ export default function Account() {
   return (
     <>
       <Head>
-        <title>{"Greenance | Settings"}</title>
-        <meta name="description" content="Greenance Project - Account Settings" />
+        <title>{"Absup | Settings"}</title>
+        <meta name="description" content="Absup Project - Account Settings" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/assets/greenance_favicon.png" />
+        <link rel="icon" href="/assets/Absup_favicon.png" />
       </Head>
       {
         !address 

@@ -22,9 +22,9 @@ import { useMediaQuery } from "react-responsive"
 function Menu() {
 	return (
 		<>
-			<Link href="/campaigns">{"Campaigns"}</Link>
+			{/* <Link href="/campaigns">{"Campaigns"}</Link> */}
 			<Link href="/#how-it-works">{"How it works"}</Link>
-			<Link href="/">{"About us"}</Link>
+			<Link href="https://www.absa.com.gh/business/">{"About Absa"}</Link>
 			{/* <Link href="/#blog">{"Blog"}</Link> */}
 		</>
 	)

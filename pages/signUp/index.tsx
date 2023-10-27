@@ -109,8 +109,8 @@ export default function SignUp() {
 		// }
 
 		if (username && email) {
-			const authMsg = `Welcome to Greenance!
-      \nClick to sign in and accept the Greenance Terms of Service.
+			const authMsg = `Welcome to Absup!
+      \nClick to sign in and accept the Absup Terms of Service.
       \nThis request will not cost any gas fees.
       \nYour authentication status will reset after 24 hours.
       \nTimestamp: ${Date.now()}
@@ -139,7 +139,7 @@ export default function SignUp() {
 						id: v4(),
 						type: "SUCCESS",
 						title: "Account Created Successfully",
-						message: `Welcome to Greenance ${username}`,
+						message: `Welcome to Absup ${username}`,
 					},
 				})
 
@@ -189,13 +189,13 @@ export default function SignUp() {
 	return (
 		<>
 			<Head>
-				<title>{"Greenance | Sign Up"}</title>
+				<title>{"Absup | Sign Up"}</title>
 				<meta
 					name="description"
-					content="Greenance Project - Climate financing on the blockchain"
+					content="Absup Project - Supply chain financing on the blockchain"
 				/>
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<link rel="icon" href="/assets/greenance_favicon.png" />
+				<link rel="icon" href="/assets/Absup_favicon.png" />
 			</Head>
 			<section className="su-page">
 				<div className="su-bg">

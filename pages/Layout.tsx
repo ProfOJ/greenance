@@ -9,13 +9,13 @@ export default function Layout({ children }: { children: ReactNode }) {
 	return (
 		<>
 			<Head>
-				<title>Greenance | Climate financing on the blockchain</title>
+				<title>Absup | Supply chain financing on the blockchain</title>
 				<meta
 					name="description"
-					content="Greenance Project - Climate financing on the blockchain"
+					content="Absup Project - Supply chain financing on the blockchain"
 				/>
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<link rel="icon" sizes="32x32" href="/assets/greenance_favicon.png" />
+				<link rel="icon" sizes="32x32" href="/assets/Absup_favicon.png" />
 			</Head>
 			<Navbar />
 			<div className="p-full">{children}</div>
